@@ -11,5 +11,10 @@
     "postinstall": "node backend/seed.js",
     "seed": "node backend/seed.js"
   },
-  "engines": { "node": ">=18.0.0" }
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3"
+  }
 }
