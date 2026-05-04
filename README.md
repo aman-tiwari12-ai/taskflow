@@ -6,7 +6,7 @@ A full-stack team project & task management app with role-based access control, 
 
 ## 🌐 Live Demo
 
-> **Live URL:** _[taskflow-production-4937.up.railway.app]_
+> **Live URL:** taskflow-production-4937.up.railway.app
 
 **Demo Accounts:**
 | Role | Email | Password |
